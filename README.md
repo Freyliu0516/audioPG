@@ -2,8 +2,7 @@
 
 Official implementation of the AudioPG system presented in the paper "Physics-Guided Audio Masked Autoencoders for Robust Sound Representation Learning".
 
-## 🤗 Available on Hugging Face
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/wuji111/AudioPG)
+
 
 ## 📋 Table of Contents
 - [Overview](#overview)
