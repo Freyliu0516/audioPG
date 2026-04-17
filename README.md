@@ -1,5 +1,5 @@
 # AudioPG: Physics-Guided Audio Masked Autoencoders
-
+# Paper accepted at ICMR26 !
 Official implementation of the AudioPG system presented in the paper "Physics-Guided Audio Masked Autoencoders for Robust Sound Representation Learning".
 
 
@@ -128,4 +128,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions about the code or paper, please contact anonymous@university.edu.
+For questions about the code or paper, please contact 10245102480@stu.ecnu.edu.cn.
